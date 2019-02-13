@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output0"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output1"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output2"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output3"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output4"/>
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output5"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output6"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output7"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output8"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output9"/>
+
+    <item
+        android:duration="500"
+        android:drawable="@drawable/output10"/>
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output11"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output12"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output13"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output14"/>-->
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output15"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output16"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output17"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output18"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output19"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output20"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output21"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output22"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output23"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output24"/>-->
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output25"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output26"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output27"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output28"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output29"/>-->
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output30"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output31"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output32"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output33"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output34"/>-->
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output35"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output36"/>-->
+
+    <!--<item-->
+        <!--android:duration="500"-->
+        <!--android:drawable="@drawable/output37"/>-->
+
+
+
+
+
+</animation-list>
